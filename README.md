@@ -4,7 +4,7 @@ API Data Wilayah Indonesia
 Repository ini berisi source code untuk generate (REST) API statis berisi data wilayah Indonesia
 serta perintah untuk mendeploynya ke _static hosting_ [Github Page](https://pages.github.com/).
 
-Demo: [https://22194K2.github.io/api-wilayah-indonesia](https://emsifa.github.io/api-wilayah-indonesia)
+Demo: [https://22194K2.github.io/api-wilayah-indonesia](https://22194K2.github.io/api-wilayah-indonesia)
 
 #### Apa yang dimaksud API statis? 
 
